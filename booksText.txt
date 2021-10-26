@@ -1,0 +1,3 @@
+Book [author=mihai, price=5.2, name=ALba, amount=34]
+Book [author=mihnea, price=5.2, name=ne, amount=34]
+Book [author=c, price=5.2, name=3, amount=34]
